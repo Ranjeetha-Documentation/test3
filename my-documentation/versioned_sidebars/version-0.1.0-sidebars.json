@@ -1,0 +1,20 @@
+{
+  "tutorialSidebar": [
+    [
+      {
+        "type": "category",
+        "label": "rdk-camera-architecture",
+        "items": [
+          "rdk-camera-architecture/rdk-camera-architecture"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "rdk-camera-documentation",
+        "items": [
+          "rdk-camera-documentation/rdk-camera-documentation"
+        ]
+      }
+    ]
+  ]
+}
